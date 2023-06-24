@@ -4,7 +4,9 @@ public class HolaMundo {
 
 		NicolasFiquitivaSegura.Saludo();
 		KevinG.Saludo();
+		DarioBernal.Saludo();
 		Smith.Saludo();
+
 	}
 
 }
